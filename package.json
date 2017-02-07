@@ -15,7 +15,7 @@
     "protractor": "protractor e2e-tests/protractor.conf.js",
     "url" : "http://localhost:8000"
   },
-  "author": "FarminF <farzin@ismb.it>",
+  "author": "FarminF <farmin.f@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "bower": "^1.7.9",

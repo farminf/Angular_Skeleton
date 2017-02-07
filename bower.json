@@ -1,9 +1,9 @@
 {
   "name": "module-name",
   "authors": [
-    "FarminF <farzin@ismb.it>"
+    "FarminF <farmin.f@gmail.com>"
   ],
-  "description": "Dskeleton project modules",
+  "description": "skeleton project modules",
   "license": "Aapche v2.0",
   "homepage": "https://xxx",
   "private": true,
